@@ -1,2 +1,0 @@
-# idiscuss
-my static website
